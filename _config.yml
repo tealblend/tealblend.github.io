@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: pantolav@gmail.com
-  facebook: pong.pantola@delasalle.ph
+  email: 
+  facebook: 
   flickr:
-  github: pong-pantola/jekyll-now
+  github: tealblend.github.io/jekyll-now
   instagram:
   linkedin:
   pinterest:
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "http://pong-pantola.github.io"
+baseurl: "http://tealblend.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
