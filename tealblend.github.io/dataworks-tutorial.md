@@ -44,7 +44,7 @@ In this tutorial we would need the following:
  
  4. Go to the window where your dashDB is located and click the **`Service Credentials`**.
  
- 5. You would the information of your dashDB credentials in JSON format but only a few of them is needed by Dataworks to connect specifically the "db", 'username', "host", "password". You can copy those information and paste them in the necessary field if the values are too long to type.
+ 5. You would the information of your dashDB credentials in JSON format but only a few of them is needed by Dataworks to connect specifically the "db"(database name), 'username', "host", "password". You can copy those information and paste them in the necessary field if the values are too long to type.
  
  6.  Add a name to your connection and description(optional).
  
