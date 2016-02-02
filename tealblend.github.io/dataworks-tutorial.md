@@ -36,7 +36,7 @@ In this tutorial we would need the following:
 
 > Note: It is advisable to open two windows for this part. One for dashDB service and the second one is for the Dataworks.
 
- 1. Click the **`Create Connection`** that is under **`Tasks`**.
+ 1. Click the **`Create Connection`** under **`Tasks`** section.
  
  2. From there you would see different database service that Dataworks can connect to, click on the IBM dashDB .
  
