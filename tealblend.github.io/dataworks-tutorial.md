@@ -50,4 +50,19 @@ In this tutorial we would need the following:
  
  7. Once finished click the **`Create Connection`** button.
 
+####**Selecting the data for refinement**####
+1. Click the **`Refine and Copy`** under the Task section.
+
+2. Choose the dashDB connection that you have just created and you would a see several schemas inside dashDB.
+
+3. We will be using the sample schema created by dashDB which is **`GOSALESHR`**. 
+
+4. Click **`GOSALESHR`** and check the **`EMPLOYEE`** table by clicking on the box. 
+
+5.  Click the **`REFINE`** button.
+
+####**Exploring the data refinement page**####
+
+Once you are on the next page you should see your EMPLOYEE table loaded with its information and on top of it is the information regarding the table. The first column tells how many the table has in total, the second one is the data type present in the table, the third one tells you the overall quality of the table if it is ready to be used for analysis or not, and the last shows the number of rows or data inside the table.
+
 ####**Refining Your Data in IBM Dataworks**####
