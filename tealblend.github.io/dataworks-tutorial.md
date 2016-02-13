@@ -3,12 +3,12 @@ Dataworks Tutorial
 
 Dataworks is an IBM service that allows developers, data analyst, and business analyst to easily manage data preparations with ease through the use of their cloud based user interface. It allows to refine their data that fits their needs easily so that it saves them more time in refining data and more time in analyzing it.
 
-In this tutorial we would need the following:
+In this tutorial we will need the following:
 
  - Dataworks Service
  - Any database service (e.g. dashDB, )
 
-> Note: For this tutorial, we would be using dashDB service since it already contains sample data that we can use to manipulate with Dataworks.
+> Note: For this tutorial, we will be using dashDB service since it already contains sample data that we can use to manipulate with Dataworks.
 
 #### **Adding Dataworks and dashDB service** ####
 
@@ -38,13 +38,13 @@ In this tutorial we would need the following:
 
  1. Click the **`Create Connection`** under **`Tasks`** section.
  
- 2. From there you would see different database service that Dataworks can connect to, click on the IBM dashDB .
+ 2. From there you will see different database service that Dataworks can connect to, click on the IBM dashDB .
  
- 3. Upon clicking, it would ask for some information such as username password and the host name.
+ 3. Upon clicking, it will ask for some information such as username password and the host name.
  
  4. Go to the window where your dashDB is located and click the **`Service Credentials`**.
  
- 5. You would the information of your dashDB credentials in JSON format but only a few of them is needed by Dataworks to connect specifically the "db"(database name), 'username', "host", "password". You can copy those information and paste them in the necessary field if the values are too long to type.
+ 5. You will see the information of your dashDB credentials in JSON format but only a few of them is needed by Dataworks to connect specifically the "db"(database name), 'username', "host", "password". You can copy those information and paste them in the necessary field if the values are too long to type.
  
  6.  Add a name to your connection and description(optional).
  
@@ -53,7 +53,7 @@ In this tutorial we would need the following:
 ####**Selecting the data for refinement**####
 1. Click the **`Refine and Copy`** under the Task section.
 
-2. Choose the dashDB connection that you have just created and you would a see several schemas inside dashDB.
+2. Choose the dashDB connection that you have just created and you will see several schemas inside dashDB.
 
 3. We will be using the sample schema created by dashDB which is **`GOSALESHR`**. 
 
