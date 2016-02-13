@@ -1,10 +1,7 @@
----
-layout: post
-title: Dataworks Tutorial
----
 
  
- 
+Dataworks Tutorial
+
 Dataworks is an IBM service that allows developers, data analyst, and business analyst to easily manage data preparations with ease through the use of their cloud based user interface. It allows to refine their data that fits their needs easily so that it saves them more time in refining data and more time in analyzing it.
  
 In this tutorial we will need the following:
@@ -14,16 +11,16 @@ In this tutorial we will need the following:
  
  > Note: For this tutorial, we will be using dashDB service since it already contains sample data that we can use to manipulate with Dataworks.
  
- #### **Adding Dataworks and dashDB service** ####
+####**Adding Dataworks and dashDB service**####
  
   1. On your dashboard, click the **`Services and APIs`**.
  
   2. Look for **`IBM Dataworks`** and **`dashDB`** and add them to your dashboard.
   
  
- > Note: You do not have to bind your Dataworks and dashDB to any application.
+> Note: You do not have to bind your Dataworks and dashDB to any application.
  
- ####**Exploring IBM Dataworks**####
+####**Exploring IBM Dataworks**####
  1. Click the IBM Dataworks service that is found in your dashboard.
  
  2. Click the **`Manage`** button. 
