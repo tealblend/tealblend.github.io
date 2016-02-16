@@ -13,7 +13,7 @@ In this tutorial we will need the following:
  
  > Note: For this tutorial, we will be using dashDB service since it already contains sample data that we can use to manipulate with Dataworks.
  
-###Adding Dataworks and dashDB service###
+##Adding Dataworks and dashDB service##
  
   1. On your dashboard, click the `Services and APIs`.
  
@@ -22,7 +22,7 @@ In this tutorial we will need the following:
  
 > Note: You do not have to bind your Dataworks and dashDB to any application.
  
-####**Exploring IBM Dataworks**####
+##**Exploring IBM Dataworks**##
  1. Click the IBM Dataworks service that is found in your dashboard.
  
  2. Click the `Manage` button. 
@@ -35,7 +35,7 @@ In this tutorial we will need the following:
  
  6. The Admin part allows a database service to send its contents to different database service (e.g. dashDB to DB2). However, this service requires installation of another software so it will not be part of the tutorial.
  
-####**Establishing a connection to dashDB in Dataworks**####
+##**Establishing a connection to dashDB in Dataworks**##
  
   > Note: It is advisable to open two windows for this part. One for dashDB service and the second one is for the Dataworks.
 
@@ -54,7 +54,7 @@ In this tutorial we will need the following:
   
   7. Once finished click the `Create Connection` button.
  
-####**Selecting the data for refinement**####
+##**Selecting the data for refinement**##
  1 . Click the `Refine and Copy` under the Task section.
  
  2 . Choose the dashDB connection that you have just created and you will see several schemas inside dashDB.
@@ -65,13 +65,13 @@ In this tutorial we will need the following:
  
  5 .  Click the `REFINE` button.
  
-####**Exploring the data refinement page**####
+##**Exploring the data refinement page**##
  
  Once you are on the next page you should see your EMPLOYEE table loaded with its contents and on top of it is the information regarding the table. The first column tells how many the table has in total, the second one is the data type present in the table, the third one tells you the overall quality of the table if it is ready to be used for analysis or not, and the last shows the number of rows or data inside the table.
  
  On the left side of the table sheet you will see four options named columns, metrics, history, and join. Columns allow you to hide and unhide certain columns, metrics allow you to see the individual quality of the columns, the history is where you will see all the changes you have made and join lets you combine twoo or more tables into one.
  
-####**Refining Your Data in IBM Dataworks**####
+##**Refining Your Data in IBM Dataworks**##
 1. Click the `Metrics` option and check the quality of each column.
 
 2. Go to the `Termination Date` column and you will notice it has a low quality and Dataworks will tell you that it has a lot of missing values or null values. (You can also click the column and click `Properties` to show the details of that column)
@@ -94,4 +94,4 @@ In this tutorial we will need the following:
 
 11. Remove the column by clicking `Remove Column`.
 
-####**Joining Two Tables**####
+##**Joining Two Tables**##
