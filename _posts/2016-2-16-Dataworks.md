@@ -13,7 +13,7 @@ In this tutorial we will need the following:
  
  > Note: For this tutorial, we will be using dashDB service since it already contains sample data that we can use to manipulate with Dataworks.
  
-####**Adding Dataworks and dashDB service**####
+####Adding Dataworks and dashDB service####
  
   1. On your dashboard, click the `Services and APIs`.
  
