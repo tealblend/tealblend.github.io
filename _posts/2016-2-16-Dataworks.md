@@ -31,7 +31,7 @@ In this tutorial we will need the following:
  
  6. The Admin part allows a database service to send its contents to different database service (e.g. dashDB to DB2). However, this service requires installation of another software so it will not be part of the tutorial.
  
-#### **Establishing a connection to dashDB in Dataworks** ####
+####**Establishing a connection to dashDB in Dataworks**####
  
   > Note: It is advisable to open two windows for this part. One for dashDB service and the second one is for the Dataworks.
 
