@@ -10,7 +10,7 @@ In this tutorial we will need the following:
    Dataworks Service
    Any database service (e.g. dashDB, )
  
- > Note: For this tutorial, we will be using dashDB service since it already contains sample data that we can use to manipulate with Dataworks.
+ > For this tutorial, we will be using dashDB service since it already contains sample data that we can use to manipulate with Dataworks.
  
 ##Adding Dataworks and dashDB service##
  
@@ -19,7 +19,7 @@ In this tutorial we will need the following:
   2. Look for `IBM Dataworks` and `dashDB` and add them to your dashboard.
   
  
-> Note: You do not have to bind your Dataworks and dashDB to any application.
+> You do not have to bind your Dataworks and dashDB to any application.
  
 ##**Exploring IBM Dataworks**##
  1. Click the IBM Dataworks service that is found in your dashboard.
@@ -36,7 +36,7 @@ In this tutorial we will need the following:
  
 ##**Establishing a connection to dashDB in Dataworks**##
  
-  > Note: It is advisable to open two windows for this part. One for dashDB service and the second one is for the Dataworks.
+  > It is advisable to open two windows for this part. One for dashDB service and the second one is for the Dataworks.
 
  
   1. Click the `Create Connection` under `Tasks` section.
