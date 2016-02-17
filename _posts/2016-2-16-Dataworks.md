@@ -113,4 +113,21 @@ In this tutorial we will need the following:
 
 > After joining the two tables you will now see that the information above the table sheet changed such as the overall quality and the total columns.
 
-##**Saving Your Activity**##
+##**Save and Run Your Activity**##
+
+> It is advisable to give a name to your activity before your proceed which can be seen on top of the page.
+
+1. Click the `NEXT` button.
+
+2. Select the target connection which you have created choose the user schema (DASH******) and click the radiobutton for "I want replace data".
+
+3.  Click `Run` .
+
+> You can also click Save first and run your created activity later.
+
+ 4. Once you click `Run` wait for a few seconds and it will tell if the process is successful or not
+ 
+ 5. You can view your refined data from the schema DASH.
+
+
+-End of Tutorial- 
