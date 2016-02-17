@@ -94,3 +94,23 @@ In this tutorial we will need the following:
 11. Remove the column by clicking `Remove Column`.
 
 ##**Joining Two Tables**##
+
+1. Click the `Add` button on the top left side of the page.
+
+2. Go to `GOSALESHR` schema and `EMPLOYEE_HISTORY` table and click `Add`.
+
+3. You can do whatever you want in the new table you have added and proceed to the next step once you are satisfied.
+
+4.  Go back to `EMPLOYEE` table and click `Join` on the left. (You can deselect or select any columns you like and just click join once your are done)
+
+5.  You will the part wherein it will ask you to select a column that you will use to match the two tables together which is very similar to what you are doing back in SQL.
+
+6. Click the box beside A and B and choose `EMPLOYEE_CODE` as your matching column.
+
+7. Below there are four options to combine which are Matching Rows, A+Matching Rows, B+Matching Rows, and All Rows. They are the counterpart of the join command that you used in SQL (INNER JOIN,, LEFT JOIN, RIGHT JOIN, FULL JOIN). 
+
+8.   Choose Matching Rows and click Join.
+
+> After joining the two tables you will now see that the information above the table sheet changed such as the overall quality and the total columns.
+
+##**Saving Your Activity**##
