@@ -17,14 +17,17 @@ In this tutorial we will need the following:
   1. On your dashboard, click the `Services and APIs`.
  
   2. Look for `IBM Dataworks` and `dashDB` and add them to your dashboard.
+
   
  
 > You do not have to bind your Dataworks and dashDB to any application.
- 
+
+> Additional step for dashDB service: You need to go to the dashboard of dashDB by clicking the service then click `Launch` and go `TABLES` tab. Create your default schema using `ADD TABLE` and just click `RUN DDL` in order to create the default user schema automatically.
+
 ##**Exploring IBM Dataworks**##
  1. Click the IBM Dataworks service that is found in your dashboard.
  
- 2. Click the `Manage` button. 
+ 2. Click the `Manage` button then click the left arrow button. 
  
  3.  You will then see a menu on the left side of the screen which are Tasks, Browse, Admin , and Help.
  
@@ -43,7 +46,7 @@ In this tutorial we will need the following:
   
   2. From there you will see different database service that Dataworks can connect to, click on the IBM dashDB .
   
-  3. Upon clicking, it will ask for some information such as username password and the host name.
+  3. Upon clicking, it will ask you information such as username password and the host name.
   
   4. Go to the window where your dashDB is located and click the `Service Credentials`.
   
@@ -131,3 +134,4 @@ In this tutorial we will need the following:
 
 
 -End of Tutorial- 
+
