@@ -118,7 +118,7 @@ In this tutorial we will need the following:
 
 ##**Save and Run Your Activity**##
 
-> It is advisable to give a name to your activity before your proceed which can be seen on top of the page.
+> It is required to give a name to your activity before your proceed which can be seen on top of the page.
 
 1. Click the `NEXT` button.
 
