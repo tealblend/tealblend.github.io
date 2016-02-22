@@ -130,7 +130,7 @@ In this tutorial we will need the following:
 
  4. Once you click `Run` wait for a few seconds and it will tell if the process is successful or not
  
- 5. You can view your refined data from the schema DASH.
+ 5. You can view your refined data from the schema DASH******.
 
 
 -End of Tutorial- 
