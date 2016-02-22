@@ -8,7 +8,7 @@ Dataworks is an IBM service that allows developers, data analyst, and business a
 In this tutorial we will need the following:
  
    Dataworks Service
-   Any database service (e.g. dashDB, )
+   Any database service (e.g. dashDB, Cloudant, DB2)
  
  > For this tutorial, we will be using dashDB service since it already contains sample data that we can use to manipulate with Dataworks.
  
