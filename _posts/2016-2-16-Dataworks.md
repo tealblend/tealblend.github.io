@@ -71,7 +71,7 @@ In this tutorial we will need the following:
  
  Once you are on the next page you should see your EMPLOYEE table loaded with its contents and on top of it is the information regarding the table. The first column tells how many the table has in total, the second one is the data type present in the table, the third one tells you the overall quality of the table if it is ready to be used for analysis or not, and the last shows the number of rows or data inside the table.
  
- On the left side of the table sheet you will see four options named columns, metrics, history, and join. Columns allow you to hide and unhide certain columns, metrics allow you to see the individual quality of the columns, the history is where you will see all the changes you have made and join lets you combine twoo or more tables into one.
+ On the left side of the table sheet you will see four options named columns, metrics, history, and join. Columns allow you to hide and unhide certain columns, metrics allow you to see the individual quality of the columns, the history is where you will see all the changes you have made and join lets you combine two or more tables into one.
  
 ##**Refining Your Data in IBM Dataworks**##
 1. Click the `Metrics` option and check the quality of each column.
