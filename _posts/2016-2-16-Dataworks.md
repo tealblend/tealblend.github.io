@@ -110,7 +110,7 @@ In this tutorial we will need the following:
 
 6. Click the `Select Join Key` below A and above B and choose `EMPLOYEE_CODE` as your matching column.
 
-7. Below there is a dropdown option that lets you how you will combine your data and they are Matching Rows, A+Matching Rows, B+Matching Rows, and All Rows. They are the counterpart of the join command that you used in SQL (INNER JOIN,, LEFT JOIN, RIGHT JOIN, FULL JOIN). 
+7. Below there is a dropdown option that lets you choose how you will combine your data and they are Matching Rows, A+Matching Rows, B+Matching Rows, and All Rows. They are the counterpart of the join command that you used in SQL (INNER JOIN,, LEFT JOIN, RIGHT JOIN, FULL JOIN). 
 
 8.   Choose Matching Rows and click Join.
 
