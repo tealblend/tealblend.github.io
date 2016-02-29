@@ -106,11 +106,11 @@ In this tutorial we will need the following:
 
 4.  Go back to `EMPLOYEE` table and click `Join` on the left. (You can deselect or select any columns you like and just click join once your are done)
 
-5.  You will the part wherein it will ask you to select a column that you will use to match the two tables together which is very similar to what you are doing back in SQL.
+5.  You will see the part wherein it will ask you to select a column that you will use to match the two tables together which is very similar to what you are doing back in SQL.
 
-6. Click the box beside A and B and choose `EMPLOYEE_CODE` as your matching column.
+6. Click the `Select Join Key` below A and above B and choose `EMPLOYEE_CODE` as your matching column.
 
-7. Below there are four options to combine which are Matching Rows, A+Matching Rows, B+Matching Rows, and All Rows. They are the counterpart of the join command that you used in SQL (INNER JOIN,, LEFT JOIN, RIGHT JOIN, FULL JOIN). 
+7. Below there is a dropdown option that lets you how you will combine your data and they are Matching Rows, A+Matching Rows, B+Matching Rows, and All Rows. They are the counterpart of the join command that you used in SQL (INNER JOIN,, LEFT JOIN, RIGHT JOIN, FULL JOIN). 
 
 8.   Choose Matching Rows and click Join.
 
