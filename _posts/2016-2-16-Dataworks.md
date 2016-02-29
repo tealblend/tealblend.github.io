@@ -65,7 +65,7 @@ In this tutorial we will need the following:
  
  4 . Click `GOSALESHR` and check the `EMPLOYEE` table by clicking on the box. 
  
- 5 .  Click the `REFINE` button.
+ 5 .  Click the `REFINE DATA` button.
  
 ##**Exploring the data refinement page**##
  
