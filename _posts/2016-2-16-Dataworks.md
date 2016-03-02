@@ -22,7 +22,7 @@ In this tutorial we will need the following:
  
 > You do not have to bind your Dataworks and dashDB to any application.
 
-> Additional step for dashDB service: You need to go to the dashboard of dashDB by clicking the service then click `Launch` and go `TABLES` tab. Create your default schema using `ADD TABLE` and just click `RUN DDL` in order to create the default user schema automatically.
+> (In case dashDB's default schema does not show up which is DASH******)You need to go to the dashboard of dashDB by clicking the service then click `Launch` and go `TABLES` tab. Create your default schema using `ADD TABLE` and just click `RUN DDL` in order to create the default user schema automatically.
 
 ##**Exploring IBM Dataworks**##
  1. Click the IBM Dataworks service that is found in your dashboard.
